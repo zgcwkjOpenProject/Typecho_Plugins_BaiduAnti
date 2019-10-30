@@ -1,0 +1,2 @@
+# Typecho_Plugins_BaiduAnti
+Typecho插件、在百度网址跳转到网站弹出提示的插件
